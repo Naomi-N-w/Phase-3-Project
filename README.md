@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/bc0890c6-b59e-46b5-bd62-27c95bfb55bc)
+
 # Phase-3-Project
 ## Overview
 The goal of this project is to predict whether a bank customer will subscribe to a term deposit using historical marketing campaign data.
