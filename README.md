@@ -29,20 +29,18 @@ The goal of this project is to predict whether a bank customer will subscribe to
 
 ## Evaluation
 ![image](https://github.com/user-attachments/assets/399092d7-1d38-478a-989b-aaf3b858ae25)
-![image](https://github.com/user-attachments/assets/b6b06202-ffef-4780-a2bf-3f4958e82b01)
-![image](https://github.com/user-attachments/assets/de3daf4a-b852-488e-b980-0f6686026a50)
-![image](https://github.com/user-attachments/assets/e4118dc2-defa-4a0c-a86f-0e8df5c9a03d)
+
 + Logistic Regression: Good interpretation and performance.
 + Decision Tree: Best overall performance, strong ROC-AUC.
 
 ## Conclusions
 + Predicting whether a customer will subscribe to a term deposit was successfully addressed using a Decision Tree model.
 + The model was able to correctly predict customer behavior 79%(ROC-AUC) of the time, and it was very good at telling the difference between people who would and wouldn’t subscribe to a term deposit.
-+ The precision and recall scores show that the model performs well in identifying both positive and negative classes.This helps avoid wasting time on the wrong people and increases the chances of getting real subscribers
++ The precision and recall scores show that the model performs well in identifying both positive and negative classes. This helps avoid wasting time on the wrong people and increases the chances of getting real subscribers
 
-
-
-
+## Contact
+### Email: naomingigi2020@gmail.com
+### LinkedIn Profile: www.linkedin.com/in/naomi-ngigi-957497295
 
 
 
